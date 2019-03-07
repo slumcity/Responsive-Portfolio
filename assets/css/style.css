@@ -216,3 +216,7 @@ body {
     border: 0 none;
   }
   
+  @media screen and (max-width: 980px) {
+    #masthead {background-color: black;}
+    nav {padding-right: 30px;}
+    }
